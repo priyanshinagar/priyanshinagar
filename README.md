@@ -21,6 +21,7 @@
 - C Programming
 - Git
 - GitHub
+- Data Structures & Algorithms
 
 ## 🚀 Projects
 
